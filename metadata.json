@@ -1,0 +1,6 @@
+{
+  "name": "Birthday Wishing App",
+  "description": "An interactive, modern, responsive birthday wish creator with customizable themes, cakes, balloons, a Web Audio melody synthesizer, and sharing features.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
